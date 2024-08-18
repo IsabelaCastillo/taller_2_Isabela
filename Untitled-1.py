@@ -5,3 +5,5 @@ variable = 12
 suma = variable +1
 
 print(variable)
+
+2+2
